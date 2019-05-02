@@ -2,5 +2,5 @@ jadwal hari ini
 - mandi
 - sarapan
 - otw
-- sarapan
 - pulang
+- mandi2
