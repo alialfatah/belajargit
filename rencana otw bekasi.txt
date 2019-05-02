@@ -2,5 +2,8 @@ rencana otw bekasi
 - mandi
 - pilih baju
   * baju santai
+   ^baju yang serasi
 - pilih sepatu
+  *sepatu run
 - pilih mobil
+ *mobil sport
