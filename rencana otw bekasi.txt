@@ -1,4 +1,5 @@
 rencana otw bekasi
 - mandi
 - pilih baju
+  * baju santai
 - pilih sepatu
