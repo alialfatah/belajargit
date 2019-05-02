@@ -3,3 +3,4 @@ rencana otw bekasi
 - pilih baju
   * baju santai
 - pilih sepatu
+- pilih mobil
